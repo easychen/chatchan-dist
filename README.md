@@ -6,6 +6,23 @@
 
 ## 最近更新
 
+v1.0.5 
+
+- 支持上传和下载对话记录
+
+![](images/20230408130332.png)
+
+- 支持重新生成答案
+
+![](images/20230408130401.png)
+
+- Docker版自带OpenAI代理，请把自定义地址填为 `http://你的IP:你的端口`，然后请求会从服务器端发送到`api.openai.com`。（请确保Docker部署的环境可以访问api.openai.com）
+
+![](images/20230408132919.png)
+
+代理支持访问密码、内容安全、超时设置等，[请点击这里查看详细的环境变量](https://github.com/easychen/openai-api-proxy)
+
+
 v1.0.2 
 
 - 支持自动保存对话，支持总结对话标题
