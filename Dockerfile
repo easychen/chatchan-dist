@@ -14,7 +14,7 @@ RUN sed -i 's/app.all(`*`/app.use(express.static(`\/data\/web`));app.use(`*/g' /
 # 替换 if(req.originalUrl) req.url = req.originalUrl;
 RUN sed -i 's/const url =/if(req.originalUrl) req.url = req.originalUrl;let url =/g' /data/api/app.js
 
-RUN sed -i 's/const proxy_key =/if( openai_key.startsWith("fk") ) url = url.replaceAll( "api.openai.com", "openai.api2d.net" ); const proxy_key = /g' /data/api/app.js
+
 
 
 
