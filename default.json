@@ -1,3 +1,13 @@
 {
-    "app_name":"方糖气球🎈"
+    "app_name": "",
+    "api_key": "fk189332-uLgVWbWbfXOBSaSmNRvGopEZnOo4KMHe",
+    "api_url": "https://openai.api2d.net",
+    "chat_model": "",
+    "chat_max_tokens": "",
+    "chat_temperature": "",
+    "chat_timeout": "",
+    "chat_system_prompt": "",
+    "chat_user_prompt": "",
+    "chat_character_url": "",
+    "chat_character_opacity": 80
 }
