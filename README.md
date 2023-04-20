@@ -6,6 +6,10 @@
 
 ## 最近更新
 
+> 🚒 BreakingChange: 1.0.7 启用了 wasm 来计算 token，本地浏览器和部分主机环境不支持该类型的文件，需要手工添加支持，具体方法请询问GPT「如何给xxx(你使用的类型比如apache/nginx)服务器添加MIME TYPE 以支持 wasm」
+
+![](images/20230420105053.png)
+
 v1.0.7
 
 - Token可以精确计算了，内容超长不会再出现400错
