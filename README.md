@@ -10,6 +10,26 @@
 
 ## 最近更新
 
+v1.0.16
+
+default.json 添加强制审核选项，使用API2D的Key时可以开启该选项。开启后，返回的内容将会送后发送给腾讯云内容安全接口审核，因此响应速度会变慢，费用为每次10P。
+
+开启方式：在 default.json 中添加 `chat_moderation` 字段，为 `on` 时，会审核并拦截输出。
+
+```
+{
+    "app_name": "",
+    "api_key": "",
+    "api_url": "",
+    ...
+    "chat_moderation": "off"
+}
+```
+
+开启效果：
+
+![](images/20230704232037.png)
+
 v1.0.15
 
 兼容 stream 模式下输出的错误信息
