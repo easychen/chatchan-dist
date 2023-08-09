@@ -1,4 +1,6 @@
-在线版最新地址 [c2.level06.com](https://c2.level06.com)
+> ⚠️ 可 watch 本 repo 以获得在线版最新地址
+
+在线版最新地址 [c3.level06.com](https://c3.level06.com)
 
 # Chat酱独立部署版
 
