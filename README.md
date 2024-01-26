@@ -1,3 +1,14 @@
+推荐使用浏览器插件，除了载入更快，还支持边栏
+
+## 浏览器插件
+
+|微软Edge|谷歌Chrome|
+|-|-|
+| 审核中 |[![](https://github.com/easychen/checkchan-dist/raw/master/image/20220906224612.png)](https://chrome.google.com/webstore/detail/knadnllihfobgmmeanknpnklccjhiolf)  |
+
+
+点以上图标进入商店页面或者直接在商店搜索「Check酱」即可
+
 > ⚠️ 可 watch 本 repo 以获得在线版最新地址
 
 在线版最新地址 [c3.level06.com](https://c3.level06.com)
