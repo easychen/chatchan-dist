@@ -4,7 +4,7 @@
 
 |微软Edge|谷歌Chrome|
 |-|-|
-| 审核中 |[![](https://github.com/easychen/checkchan-dist/raw/master/image/20220906224612.png)](https://chrome.google.com/webstore/detail/knadnllihfobgmmeanknpnklccjhiolf)  |
+| [![](https://github.com/easychen/checkchan-dist/raw/master/image/20220906224637.png)](https://microsoftedge.microsoft.com/addons/detail/aakifgfhadhkcflbkjbhbamljjchpkho) |[![](https://github.com/easychen/checkchan-dist/raw/master/image/20220906224612.png)](https://chrome.google.com/webstore/detail/knadnllihfobgmmeanknpnklccjhiolf)  |
 
 
 点以上图标进入商店页面或者直接在商店搜索「Check酱」即可
