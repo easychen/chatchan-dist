@@ -23,6 +23,24 @@
 
 ## 最近更新
 
+v1.0.30
+更新默认模型，支持4o、4o-mini。支持通过`default.json`设置默认模型。
+
+```json
+{
+    "app_name": "",
+    ...,
+    "chat_model_options": [
+        {"label":"GPT3.5+","value":"gpt-3.5-turbo"},
+        {"label":"GPT4om","value":"gpt-4o-mini"},
+        {"label":"GPT4o","value":"gpt-4o"},
+        {"label":"GPT4","value":"gpt-4"},
+        {"label":"GPT4+","value":"gpt-4-turbo"},
+        {"label":"GPT5","value":"gpt-5"}
+    ]
+}
+```
+
 v1.0.28
 
 支持用户添加自定义模型，可在设置界面和选择框处输入。可在设置界面清除。
